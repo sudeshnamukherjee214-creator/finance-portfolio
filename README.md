@@ -14,11 +14,13 @@ toward a JP Morgan Summer Analyst application (2027 cycle).
 ## 🔧 Featured Project: Infosys DCF Valuation
 Full intrinsic valuation built from the FY25 annual report — FCF 
 projection, WACC derivation, terminal value, sensitivity analysis.
-→ [View project](/dcf-models/infosys-dcf)
+→ [Infosys_FY25_DCF_Valuation (1).xlsx](https://github.com/user-attachments/files/29502264/Infosys_FY25_DCF_Valuation.1.xlsx)
+
+
 
 ## 🛠 Skills Demonstrated
 Financial modeling · DCF & comparable company analysis · SQL · 
 Economic analysis · Equity research
 
 ## 📫 Contact
-[www.linkedin.com/in/] · [sudeshnamukherjee214@gmail.com][Infosys_FY25_DCF_Valuation (1).xlsx](https://github.com/user-attachments/files/29502127/Infosys_FY25_DCF_Valuation.1.xlsx)
+[www.linkedin.com/in/] · [sudeshnamukherjee214@gmail.com].
