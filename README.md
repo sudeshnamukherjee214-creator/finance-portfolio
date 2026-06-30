@@ -15,6 +15,7 @@ toward a JP Morgan Summer Analyst application (2027 cycle).
 Full intrinsic valuation built from the FY25 annual report — FCF 
 projection, WACC derivation, terminal value, sensitivity analysis.
 → [Infosys_FY25_DCF_Valuation (1).xlsx](https://github.com/user-attachments/files/29502264/Infosys_FY25_DCF_Valuation.1.xlsx)
+[FINANCIAL ANALYST1.docx](https://github.com/user-attachments/files/29502375/FINANCIAL.ANALYST1.docx)
 
 
 
